@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:dacaroe/MPL.git/static/css/main.2c32d3ed.css",
+    "main.js": "/git@github.com:dacaroe/MPL.git/static/js/main.15232af9.js",
+    "static/js/787.17bf4d70.chunk.js": "/git@github.com:dacaroe/MPL.git/static/js/787.17bf4d70.chunk.js",
+    "index.html": "/git@github.com:dacaroe/MPL.git/index.html",
+    "main.2c32d3ed.css.map": "/git@github.com:dacaroe/MPL.git/static/css/main.2c32d3ed.css.map",
+    "main.15232af9.js.map": "/git@github.com:dacaroe/MPL.git/static/js/main.15232af9.js.map",
+    "787.17bf4d70.chunk.js.map": "/git@github.com:dacaroe/MPL.git/static/js/787.17bf4d70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c32d3ed.css",
+    "static/js/main.15232af9.js"
+  ]
+}
