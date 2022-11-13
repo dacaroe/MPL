@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/MPL/static/css/main.5893db14.css",
-    "main.js": "/MPL/static/js/main.e609a9ea.js",
+    "main.js": "/MPL/static/js/main.57b2318f.js",
     "static/js/27.a2cc456c.chunk.js": "/MPL/static/js/27.a2cc456c.chunk.js",
     "index.html": "/MPL/index.html"
   },
   "entrypoints": [
     "static/css/main.5893db14.css",
-    "static/js/main.e609a9ea.js"
+    "static/js/main.57b2318f.js"
   ]
 }
