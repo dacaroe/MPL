@@ -3,7 +3,7 @@
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */body{-webkit-tap-highlight-color:transparent}.carousel-control-next,.carousel-control-prev,.nav-pills .nav-link,.nav-tabs .nav-link{background:0 0}
+ */body{-webkit-tap-highlight-color:transparent}.carousel-control-next,.carousel-control-prev,.nav-pills .nav-link,.nav-tabs .nav-link{background:0 0}.App{text-align:center}.App-logo{height:40vmin;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{-webkit-animation:App-logo-spin 20s linear infinite;animation:App-logo-spin 20s linear infinite}}.App-header{align-items:center;background-color:#282c34;color:#fff;display:flex;flex-direction:column;font-size:calc(10px + 2vmin);justify-content:center;min-height:100vh}.App-link{color:#61dafb}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}table thead{background:#fff;font-size:10px;position:-webkit-sticky;position:sticky;top:0;z-index:1}table thead th:first-child{left:0}table thead th:first-child,table thead th:last-child{background:#fff;position:-webkit-sticky;position:sticky;z-index:2}table thead th:last-child{right:0}table tbody th{background:#fff;left:0;position:-webkit-sticky;position:sticky;z-index:1}table tbody th:first-child,table tbody th:last-child{background:#fff;position:-webkit-sticky;position:sticky;right:0;z-index:1}
 /*!
  * Bootstrap  v5.2.2 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
